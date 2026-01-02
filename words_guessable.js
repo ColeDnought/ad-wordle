@@ -14855,4 +14855,6 @@ const wordsGuessableData = [
   "zygon",
   "zymes",
   "zymic",
+  "catio",
+  "geoff"
 ]
