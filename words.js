@@ -1,5 +1,5 @@
 const wordQueue = [
-  'porch', 'homes', 'hiker', 'birds', 'sleep', 'italy', 'happy'
+  'catio', 'homes', 'hiker', 'geoff', 'birds', 'sleep', 'italy', 'happy'
 ]
 
 var queueIndex = 0
